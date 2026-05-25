@@ -35,16 +35,6 @@ Computer Engineering student at ENSI
 | [Tunisian Savings Simulator](https://github.com/oujichaima85-hub/Simulation-Compte-d-pargne---Int-r-ts-Simples--WEB) | HTML · CSS · JS |
 | [Snake Game in Assembly x86](https://github.com/oujichaima85-hub/Snake-x86-Assembly) | Assembly 8086 |
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=oujichaima85-hub&show_icons=true&theme=tokyonight&hide_border=true)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oujichaima85-hub&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
